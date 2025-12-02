@@ -1,0 +1,7 @@
+models/*.gguf
+models/*.bin
+models/*.pt
+models/*.zip
+models/*.tar.gz
+*.swp
+*.log
