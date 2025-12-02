@@ -2,6 +2,9 @@
 
 Run **Phi-3 Mini (GGUF format)** locally on a Raspberry Pi 5 using `llama.cpp`.
 
+Here is a Demo movie: 
+https://drive.google.com/file/d/1XzAsDTvVfBOjpw8BhCs32nM98jd9utsV/view?usp=sharing
+
 This repo includes:
 - Automated installation script  
 - Easy run script  
