@@ -11,13 +11,13 @@ This repo includes:
 - Optional interactive chat mode  
 - Folder for model downloads  
 
-## 🚀 Features
+## Features
 - Works on **Raspberry Pi 5 (64-bit Raspberry Pi OS)**  
 - Builds `llama.cpp` from source  
 - Supports any **GGUF model** (Phi-3 Mini recommended)  
 - Lightweight and fast  
 
-## 📦 Quick Start
+## Quick Start
 
 ### 1. Clone this repository
 ```bash
